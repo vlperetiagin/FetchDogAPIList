@@ -1,2 +1,0 @@
-# FetchDogAPIList
-Created with CodeSandbox
